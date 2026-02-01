@@ -52,5 +52,20 @@ export const projects: Project[] = [
         
         image: '/projects/travel.png',
       },
+      {
+        title: 'Resume Analyzer',
+        description: 'A full-stack AI application engineered with React, TypeScript, and Puter.js that provides real-time ATS scoring and actionable resume feedback, fully hosted on Puter cloud infrastructure.',
+        technologies: ['React', 'TypeScript', 'Puter.js', 'Tailwind CSS', 'Puter Cloud'],
+        githubLink: 'https://github.com/Hansani2002-ab/AI-Resume-Analyzer',
+        demoLink: 'https://resume-ai.puter.site/',
+        image: '/projects/resume.png',
+      },
+      {
+        title: 'Selenium Testing',
+        description: 'End-to-end automation suite for Instagram web, validating post-upload workflows and graceful error handling.',
+        technologies: ['Java', 'Selenium Webdriver', 'Puter.js', 'Tailwind CSS', 'Puter Cloud'],
+        githubLink: 'https://github.com/Hansani2002-ab/Instagram-post-upload-Automation',
+        image: '/projects/selenium.png',
+      },
       
   ];
