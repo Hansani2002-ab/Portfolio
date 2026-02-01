@@ -63,7 +63,7 @@ export const projects: Project[] = [
       {
         title: 'Selenium Testing',
         description: 'End-to-end automation suite for Instagram web, validating post-upload workflows and graceful error handling.',
-        technologies: ['Java', 'Selenium Webdriver', 'Puter.js', 'Tailwind CSS', 'Puter Cloud'],
+        technologies: ['Java', 'Selenium Webdriver'],
         githubLink: 'https://github.com/Hansani2002-ab/Instagram-post-upload-Automation',
         image: '/projects/selenium.png',
       },
