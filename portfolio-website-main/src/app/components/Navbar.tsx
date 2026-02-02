@@ -56,7 +56,7 @@ export default function Navbar() {
 
             {/* Download CV Button */}
             <motion.a
-              href="/cv.pdf" // Ensure your CV is named cv.pdf in the public folder
+              href="/Hansani Madurangi.pdf" 
               download
               className="flex items-center gap-2 bg-primary text-white px-4 py-2 rounded-lg font-semibold text-sm hover:brightness-110 transition-all shadow-md"
               whileHover={{ scale: 1.05 }}
