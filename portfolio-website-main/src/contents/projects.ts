@@ -70,7 +70,7 @@ export const projects: Project[] = [
       {
         title: 'Simple chatbot',
         description: 'A real-time AI Chatbot built with Python and Flask, powered by OpenRouter API.',
-        technologies: ['Puthon', 'HTML', 'CSS', 'OpenRouter API'],
+        technologies: ['Python', 'HTML', 'CSS', 'OpenRouter API'],
         githubLink: 'https://github.com/Hansani2002-ab/AI-Chatbot',
         image: '/projects/chat.png',
       },
