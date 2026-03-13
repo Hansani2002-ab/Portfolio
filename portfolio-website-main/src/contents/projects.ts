@@ -81,5 +81,12 @@ export const projects: Project[] = [
         githubLink: 'https://github.com/Hansani2002-ab/Music-Instrument-Management-Store',
         image: '/projects/Music.png',
       },
+      {
+        title: 'Waste Management App',
+        description: 'A full-stack mobile and web platform for managing waste collection requests, user reward points, and automated inventory tracking.',
+        technologies: ['Flutter', 'Firebase'],
+        githubLink: 'https://github.com/Hansani2002-ab/Waste-Management-App--Flutter',
+        image: '/projects/waste.png',
+      },
       
   ];
