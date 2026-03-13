@@ -74,5 +74,12 @@ export const projects: Project[] = [
         githubLink: 'https://github.com/Hansani2002-ab/AI-Chatbot',
         image: '/projects/chat.png',
       },
+      {
+        title: 'Music Instrument Management Store',
+        description: 'A full-stack web platform for managing musical instrument inventory and customer orders',
+        technologies: ['PHP', 'HTML', 'CSS', 'MySQL'],
+        githubLink: 'https://github.com/Hansani2002-ab/Music-Instrument-Management-Store',
+        image: '/projects/Music.png',
+      },
       
   ];
